@@ -1,7 +1,12 @@
 # Getting Started with Create React App
 
+#Primeiro Projeto REACT consumindo Api https://www.weatherapi.com/
 
 https://user-images.githubusercontent.com/105837280/174496460-a4f9c2b6-ea8a-4151-8c49-5b4e4adefe95.mp4
+
+
+https://user-images.githubusercontent.com/105837280/174496523-cb59c345-85a1-4ac6-9b66-ea820c38ba29.mp4
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
